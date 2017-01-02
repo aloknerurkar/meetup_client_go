@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;meetup_client_go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../playyServer" />
+      <root url="file://$PROJECT_DIR$/../golang-geo" />
+      <root url="file://$PROJECT_DIR$/../mugsserver" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../playyDbServer" />
+      <root url="file://$PROJECT_DIR$/../mugsStore" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../ApiClient" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../playyServer" />
+      <root url="file://$PROJECT_DIR$/../golang-geo" />
+      <root url="file://$PROJECT_DIR$/../mugsserver" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../playyDbServer" />
+      <root url="file://$PROJECT_DIR$/../mugsStore" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../ApiClient" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
